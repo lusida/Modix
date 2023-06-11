@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Modix.Common\Modix.Common.csproj" />
+    <ProjectReference Include="..\Universal.Common\Universal.Common.csproj" />
   </ItemGroup>
+
 
 </Project>

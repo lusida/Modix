@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Modix.Common
+namespace Universal.Common
 {
-    public abstract class DetectionAttribute : Attribute
+    public interface IContribution
     {
 
     }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Modix.Common.Sdk
+namespace Universal.Common.Sdk
 {
     public interface IPackageContext : IServiceProvider
     {

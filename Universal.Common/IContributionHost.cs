@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Modix.Common
+namespace Universal.Common
 {
     public interface IContributionHost
     {

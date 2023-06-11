@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Modix.Common
+namespace Universal.Common
 {
     [AttributeUsage(AttributeTargets.Class, AllowMultiple = true)]
     public class InjectionAttribute : DetectionAttribute
